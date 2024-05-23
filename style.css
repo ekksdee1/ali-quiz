@@ -1,0 +1,25 @@
+body {
+    background-image: url("bg.png");
+}
+#scorePlacement{
+    background-color:black;
+    color:red;
+    font-family:"Comic Sans MS";
+    font-size:75px;
+}
+form , #link {
+    background-color:rgba(0,0,0,.5);
+    color:red;
+    font-family:"Comic Sans MS";
+    font-size:30px;
+}
+h1{
+    color:red;
+    font-family:"Comic Sans MS";
+    font-size:100px;
+}
+#scoreLocation{
+    color:red;
+    font-family:"Comic Sans MS";
+    font-size:100px;
+}
